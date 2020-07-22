@@ -1,0 +1,16 @@
+{
+  "name": "node-spider-douban",
+  "version": "0.0.0",
+  "description": "node spider",
+  "main": "index.js",
+  "repository": "git@github.com:simonwong/node-spider-douban.git",
+  "author": "Simon",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node ./src/master.js"
+  },
+  "dependencies": {
+    "superagent": "^5.3.1"
+  }
+}
